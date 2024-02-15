@@ -22,7 +22,7 @@ My past labs have collected electrophysiological data in humans while they perfo
 ### Data analytics portfolio
 Through my experience in cognitive neuroscience and separate side projects, I have gained strong skills in programming (MATLAB, Python, SQL), statistics, data analytics, data visualisation, and oral presentation.
 
-In this portfolio, I showcase my data analytics skills through 4 separate projects. My description of the projects are brief as code and figures can be found in their corresponding Github repositories.
+In this portfolio, I showcase my data analytics skills through 4 separate projects. My description of the projects are brief as code and figures can be found in their corresponding repositories.
 
 #### Project 1: Auditory oddball experiment
 This is the largest scale data analytics project that I carried out at my last lab, having spent 6 months from cleaning the raw data to presenting my results in visual and oral format. 
