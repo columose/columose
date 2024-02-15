@@ -16,6 +16,7 @@ My past labs have collected electrophysiological data in humans while they perfo
 <img align="left" alt="MATLAB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 <img align="left" alt="sqlite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 
+
 ## Data analytics portfolio
 Through my experience in cognitive neuroscience and separate side projects, I have gained strong skills in programming (MATLAB, Python, SQL), statistics, data analytics, data visualisation, and oral presentation.
 
@@ -26,8 +27,8 @@ This is the largest scale data analytics project that I carried out at my last l
 
 You can find more details about the project at the following [repository](https://github.com/columose/Chronic-Pain-Project.git)
 
-[figure](Github figures/Oddball time-domain.png)
-[figure](Github figures/Oddball time-freq.png)
+![figure](Github figures/Oddball time-domain.png)
+![figure](Github figures/Oddball time-freq.png)
 
 
 
