@@ -25,7 +25,7 @@ Through my experience in cognitive neuroscience and separate side projects, I ha
 In this portfolio, I showcase my data analytics skills through 4 separate projects. My description of the projects are brief as code and figures can be found in their corresponding repositories.
 
 #### *Project 1: Auditory oddball experiment*
-This is the largest scale data analytics project that I carried out at my last lab, having spent 6 months from cleaning the raw data to presenting my results in visual and oral format. You can find more details about the project at the following [repository](https://github.com/columose/Chronic-Pain-Project.git)
+This is the largest scale data analytics project that I carried out at my last lab, having spent 6 months from cleaning the raw data to presenting my results in visual and oral format. You can find more details about the project at the following [repository](https://github.com/columose/Chronic-Pain-Project.git).
 
 ![figure](https://github.com/columose/columose/blob/8ad6cd6b904a5fcb0a8c0192ecebb4ee1c83f5e4/Github%20figures/Oddball%20time-domain.png)
 
