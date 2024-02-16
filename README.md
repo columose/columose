@@ -29,7 +29,7 @@ This is the largest scale data analytics project that I carried out at my last l
 
 You can find more details about the project at the following [repository](https://github.com/columose/Chronic-Pain-Project.git)
 
-![figure](https://github.com/columose/columose/blob/5a009b9ec4254538a2deb93316bddd0f93b7b370/Github%20figures/Oddball%20time-domain.png)
+![figure](https://github.com/columose/columose/blob/8ad6cd6b904a5fcb0a8c0192ecebb4ee1c83f5e4/Github%20figures/Oddball%20time-domain.png)
 
 ![figure](https://github.com/columose/columose/blob/aa0001208ff6838ab751deaa0b7fb6cf3548dee2/Github%20figures/Oddball%20time-freq.png)
 
