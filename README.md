@@ -4,7 +4,7 @@
 
 Welcome to my Github profile ![wave-gif](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif)
 
-My background is in Psychology and Cognitive Neuroscience, with a strong focus on electrical signal processing. I'm especially interested in the influence of prediction and attention on sensory perception.
+My background is in Psychology and Cognitive Neuroscience, with a strong focus on biosignal processing. I'm especially interested in the influence of prediction and attention on sensory perception.
 
 My past labs have collected electrophysiological data in humans while they performed experiments. After this, I would clean any noise from the signals to enhance the signal-to-noise ratio, analyse data, perform statistical analyses, and present results in visual format.
 
