@@ -43,6 +43,16 @@ I carried out a colour perception project during my Master's degree to investiga
 
 ![figure](https://github.com/columose/columose/blob/bd11dc061999938ed605dfc0232e398c65ec407b/Github%20figures/Colour%20perception.png)
 
+<p float="left">
+  <img src="Github figures/Singleplot_WC_WCB.png" width="33%" />
+  <img src="Github figures/WC_WCB_topo.png" width="33%" />
+</p>
+
+<p float="left">
+  <img src="Github figures/Singleplot_WCFB_WCB.png" width="33%" />
+  <img src="Github figures/WCFB_WCB_topo.png" width="33%" />
+</p>
+
 #### *Project 4: Earthquake datset from Google Cloud's BigQuery*
 I undertook this small project to apply some newly learned SQL skills for data extraction from the BigQuery public database. Subsequently, I cleaned, analysed and visualised the dataset in Python. More details can be found at the following [repository](https://github.com/columose/SQL-BigQuery-.git)
 
