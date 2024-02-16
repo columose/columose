@@ -36,7 +36,7 @@ You can find more details about the project at the following [repository](https:
 #### *Project 2: World Organisation of Animal Health dataset*
 Having gained ample experience with signal processing in MATLAB, I decided that it was time to develop my Python skills to a greater extent. I undertook a project on a public-access dataset from the World Organisation of Animal Healthcare on foot and mouth disease. The project saw me clean the raw dataset, analyse the data, visualise my results, and present the findings at this [repository](https://github.com/columose/WOAH-FMD-dataset.git)
 
-![figure](https://github.com/columose/columose/blob/bd11dc061999938ed605dfc0232e398c65ec407b/Github%20figures/Choropleth%20original.png)
+![figure](https://github.com/columose/columose/blob/d405d1da48a4e4668b73b54f89f58e88067c7564/Github%20figures/Choropleth%20original.png)
 
 #### *Project 3: Colour surface perception*
 I carried out a colour perception project during my Master's degree to investigate the surface, edge, and filling-in mechanisms that enable surface completion. The project served as a great introduction to signal processing, programming, and project management. The result of the project are presented in a Master's thesis and poster at the following [repository](https://github.com/columose/Colour-Perception.git)
@@ -44,8 +44,8 @@ I carried out a colour perception project during my Master's degree to investiga
 ![figure](https://github.com/columose/columose/blob/bd11dc061999938ed605dfc0232e398c65ec407b/Github%20figures/Colour%20perception.png)
 
 <p float="left">
-  <img src="Github figures/Singleplot_WC_WCB.png" width="33%" />
-  <img src="Github figures/WC_WCB_topo.png" width="33%" />
+  <img src="Github figures/Singleplot_WC_WCB.png" />
+  <img src="Github figures/WC_WCB_topo.png" />
 </p>
 
 <p float="left">
