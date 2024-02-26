@@ -27,7 +27,7 @@ In this portfolio, I showcase my data analytics skills through 4 separate projec
 #### *Project 1: Auditory oddball experiment*
 * Cleaned dataset by following a standard EEG preprocessing protocol - removal of artifacts (ECG, eyeblinks), bandpass filtering to remove line noise, removing noisy trials and channels, removing independent components that were non-signal related, interpolating any removed bad channels.
 * Performed time-series and time-frequency analyses of event-related signals.
-* Visualised the results of intricate statistical analyses using MATLAB and Python.
+* Visualised the results of intricate statistical analyses using MATLAB and Python (Matplotlib, Seaborn, MNE, SciPy).
 * Detailed description, code and figures can be found at the following [repository](https://github.com/columose/Chronic-Pain-Project.git).
 
 ![figure](https://github.com/columose/columose/blob/8ad6cd6b904a5fcb0a8c0192ecebb4ee1c83f5e4/Github%20figures/Oddball%20time-domain.png)
@@ -36,17 +36,17 @@ In this portfolio, I showcase my data analytics skills through 4 separate projec
 
 #### *Project 2: World Organisation of Animal Health dataset*
 * Extracted real-world data relating to *Foot and Mouth disease (FMD)* in animals from the *World Organisation of Animal Health's* public database.
-* Cleaned the dataset by removing duplicate entries, Nan values, etc.
-* Performed time-series analysis to determine when peaks in variables of interest occurred and further explored whether variables of interest appeared to be related.
-* Employed regression models to determine that FMD outbreaks have been dealt with in Europe through increased culling rates.
+* Cleaned the dataset by removing duplicate entries, Nan values, etc (Pandas).
+* Performed time-series analysis to determine when peaks in variables of interest occurred and further explored whether variables of interest appeared to be related (NumPy, Matplotlib, Seaborn).
+* Employed regression models to determine that FMD outbreaks have been dealt with in Europe through increased culling rates (scikit-learn).
 * Detailed description, code, figures, and interpretation can be found at the following [repository](https://github.com/columose/WOAH-FMD-dataset.git).
 
 ![figure](https://github.com/columose/columose/blob/dfbabc4dfc11d6944f8f3095c20bf3398ad27f21/Github%20figures/Choropleth%20original.png)
 
 #### *Project 3: Earthquake datset from Google Cloud's BigQuery*
 * Queried *BigQuery* database to extract an earthquake dataset using SQL.
-* Cleaned the dataset my removing duplicate entries, Nans, etc.
-* Performed regression analyses to determine whether damage in millions of dollars could predict death rates.
+* Cleaned the dataset my removing duplicate entries, Nans, etc (Pandas).
+* Performed regression analyses to determine whether damage in millions of dollars could predict death rates (scikit-learn, Seaborn).
 * More details on SQL queries, python scripts, and figures can be found at the following [repository](https://github.com/columose/SQL-BigQuery-.git).
 
 ![figure](https://github.com/columose/columose/blob/bd11dc061999938ed605dfc0232e398c65ec407b/Github%20figures/Earthquake.png)
