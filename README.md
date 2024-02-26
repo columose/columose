@@ -54,7 +54,7 @@ In this portfolio, I showcase my data analytics skills through 4 separate projec
 
 #### *Project 4: Colour surface perception*
 * Cleaned dataset using standard EEG protocol (see project 1).
-* Performed time-series analyses and visualised the results of statistical tests using MATLAB.
+* Performed spectral analyses of frequency-tagged ERPs and visualised the results of statistical tests using MATLAB.
 * Presented findings of research study at a national conference.
 * The figures below capture the findings of our study quite nicely. Illusory 'filling-in' of surfaces occurs with a 'spreading-out' of cortical activity. 
 * For access to the complete thesis and poster, see the following [repository](https://github.com/columose/Colour-Perception.git). 
