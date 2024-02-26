@@ -27,7 +27,7 @@ In this portfolio, I showcase my data analytics skills through 4 separate projec
 #### *Project 1: Auditory oddball experiment*
 * Cleaned dataset by following a standard EEG preprocessing protocol - removal of artifacts (ECG, eyeblinks), bandpass filtering to remove line noise, removing noisy trials and channels, removing independent components that were non-signal related, interpolating any removed bad channels.
 * Performed time-series and time-frequency analyses of event-related signals.
-* Visualised the results of intricate statistical analyses using MATLAB and Python (Matplotlib, Seaborn, MNE, SciPy).
+* Visualised the results of intricate statistical analyses using MATLAB and Python (Matplotlib, Seaborn, MNE).
 * Detailed description, code and figures can be found at the following [repository](https://github.com/columose/Chronic-Pain-Project.git).
 
 ![figure](https://github.com/columose/columose/blob/8ad6cd6b904a5fcb0a8c0192ecebb4ee1c83f5e4/Github%20figures/Oddball%20time-domain.png)
