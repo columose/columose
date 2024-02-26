@@ -28,6 +28,7 @@ In this portfolio, I showcase my data analytics skills through 4 separate projec
 * Cleaned dataset by following a standard EEG preprocessing protocol - removal of artifacts (ECG, eyeblinks), bandpass filtering to remove line noise, removing noisy trials and channels, removing independent components that were non-signal related, interpolating any removed bad channels.
 * Performed time-series and time-frequency analyses of event-related signals.
 * Visualised the results of intricate statistical analyses using MATLAB and Python (Matplotlib, Seaborn, MNE).
+* The results of this project indicate that pre-attentive neural responses to environmental irregularities become heightned in chronic pain patients to compensate for attentional deficits.
 * Detailed description, code and figures can be found at the following [repository](https://github.com/columose/Chronic-Pain-Project.git).
 
 ![figure](https://github.com/columose/columose/blob/8ad6cd6b904a5fcb0a8c0192ecebb4ee1c83f5e4/Github%20figures/Oddball%20time-domain.png)
@@ -38,7 +39,7 @@ In this portfolio, I showcase my data analytics skills through 4 separate projec
 * Extracted real-world data relating to *Foot and Mouth disease (FMD)* in animals from the *World Organisation of Animal Health's* public database.
 * Cleaned the dataset by removing duplicate entries, Nan values, etc (Pandas).
 * Performed time-series analysis to determine when peaks in variables of interest occurred and further explored whether variables of interest appeared to be related (NumPy, Matplotlib, Seaborn).
-* Employed regression models to determine that FMD outbreaks have been dealt with in Europe through increased culling rates (scikit-learn).
+* Deployed regression models to determine that FMD outbreaks in Europe have been dealt with by increased culling rates (scikit-learn).
 * Detailed description, code, figures, and interpretation can be found at the following [repository](https://github.com/columose/WOAH-FMD-dataset.git).
 
 ![figure](https://github.com/columose/columose/blob/dfbabc4dfc11d6944f8f3095c20bf3398ad27f21/Github%20figures/Choropleth%20original.png)
@@ -55,6 +56,7 @@ In this portfolio, I showcase my data analytics skills through 4 separate projec
 * Cleaned dataset using standard EEG protocol (see project 1).
 * Performed time-series analyses and visualised the results of statistical tests using MATLAB.
 * Presented findings of research study at a national conference.
+* The figures below capture the findings of our study quite nicely. Illusory 'filling-in' of surfaces occurs with a 'spreading-out' of cortical activity. 
 * For access to the complete thesis and poster, see the following [repository](https://github.com/columose/Colour-Perception.git). 
 
 ![figure](https://github.com/columose/columose/blob/bd11dc061999938ed605dfc0232e398c65ec407b/Github%20figures/Colour%20perception.png)
