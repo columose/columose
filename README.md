@@ -43,7 +43,15 @@ In this portfolio, I showcase my data analytics skills through 4 separate projec
 
 ![figure](https://github.com/columose/columose/blob/dfbabc4dfc11d6944f8f3095c20bf3398ad27f21/Github%20figures/Choropleth%20original.png)
 
-#### *Project 3: Colour surface perception*
+#### *Project 3: Earthquake datset from Google Cloud's BigQuery*
+* Queried *BigQuery* database to extract an earthquake dataset using SQL.
+* Cleaned the dataset my removing duplicate entries, Nans, etc.
+* Performed regression analyses to determine whether damage in millions of dollars could predict death rates.
+* More details on SQL queries, python scripts, and figures can be found at the following [repository](https://github.com/columose/SQL-BigQuery-.git).
+
+![figure](https://github.com/columose/columose/blob/bd11dc061999938ed605dfc0232e398c65ec407b/Github%20figures/Earthquake.png)
+
+#### *Project 4: Colour surface perception*
 * Cleaned dataset using standard EEG protocol (see project 1).
 * Performed time-series analyses and visualised the results of statistical tests using MATLAB.
 * Presented findings of research study at a national conference.
@@ -51,13 +59,7 @@ In this portfolio, I showcase my data analytics skills through 4 separate projec
 
 ![figure](https://github.com/columose/columose/blob/bd11dc061999938ed605dfc0232e398c65ec407b/Github%20figures/Colour%20perception.png)
 
-#### *Project 4: Earthquake datset from Google Cloud's BigQuery*
-* Queried *BigQuery* database to extract an earthquake dataset using SQL.
-* Cleaned the dataset my removing duplicate entries, Nans, etc.
-* Performed regression analyses to determine whether damage in millions of dollars could predict death rates.
-* More details on SQL queries, python scripts, and figures can be found at the following [repository](https://github.com/columose/SQL-BigQuery-.git).
 
-![figure](https://github.com/columose/columose/blob/bd11dc061999938ed605dfc0232e398c65ec407b/Github%20figures/Earthquake.png)
 
 
 
