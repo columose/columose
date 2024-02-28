@@ -41,6 +41,7 @@ In this portfolio, I showcase my data analytics skills through 4 separate projec
 * Performed time-series analysis to determine when peaks in variables of interest occurred and further explored whether variables of interest appeared to be related (NumPy, Matplotlib, Seaborn).
 * Deployed regression models to determine that FMD outbreaks in Europe have been dealt with by increased culling rates (scikit-learn).
 * Detailed description, code, figures, and interpretation can be found at the following [repository](https://github.com/columose/WOAH-FMD-dataset.git).
+* Summarised data using interactive dashboard in [Tableau public](https://public.tableau.com/app/profile/colum.s./viz/WOAHFMDproject/Dashboard).
 
 ![figure](https://github.com/columose/columose/blob/dfbabc4dfc11d6944f8f3095c20bf3398ad27f21/Github%20figures/Choropleth%20original.png)
 
