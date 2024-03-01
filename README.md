@@ -38,6 +38,7 @@ In this portfolio, I showcase my data analytics skills through 4 separate projec
 #### *Project 2: World Organisation of Animal Health dataset*
 * Extracted real-world data relating to *Foot and Mouth disease (FMD)* in animals from the *World Organisation of Animal Health's* public database.
 * Cleaned the dataset by removing duplicate entries, Nan values, etc (Pandas).
+* Stored clean dataset on MySQL server.
 * Performed time-series analysis to determine when peaks in variables of interest occurred and further explored whether variables of interest appeared to be related (NumPy, Matplotlib, Seaborn).
 * Deployed regression models to determine that FMD outbreaks in Europe have been dealt with by increased culling rates (scikit-learn).
 * Summarised key metrics using interactive dashboard in [Tableau public](https://public.tableau.com/app/profile/colum.s./viz/WOAHFMDproject/Dashboard).
