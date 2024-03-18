@@ -1,14 +1,14 @@
 # Colum Ó Sé
 
-**`Cognitive Neuroscience/Data science`**
+**`Data science`**
 
 Welcome to my Github profile ![wave-gif](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif)
 
-My background is in Psychology and Cognitive Neuroscience, with a strong focus on biosignal processing. I'm especially interested in the influence of prediction and attention on sensory perception.
+I was introduced to data science through my work in biosignal processing of EEG data at academic institutions. This work required rigor to enhance the signal-to-noise ratio through multiple cleaning steps, an analytical mind for data science, hypothesis testing, and a sharp eye for results visualisation.
 
-My past labs have collected electrophysiological data in humans while they performed experiments. After this, I would clean any noise from the signals to enhance the signal-to-noise ratio, analyse data, perform statistical analyses, and present results in visual format.
+Aside from academia, I have pursued data science projects in my spare time to test and learn new programming languages, work with different types of real-world data (Spotify, Earthquakes, Animal Health), and test nice ways of storing data on local and cloud servers.
 
- I use Github to showcase some of my projects, collaborate with others, and share code with other cognitive neuroscientists.
+ I use Github to showcase some of my projects, collaborate with others, and share code with other data scientists.
 
 ### 🧰 Data analytics programming and querying tools
 
@@ -20,9 +20,9 @@ My past labs have collected electrophysiological data in humans while they perfo
 #
 
 ### Data analytics portfolio
-Through my experience in cognitive neuroscience and separate side projects, I have gained strong skills in programming (MATLAB, Python, SQL), statistics, data analytics, data visualisation, and oral presentation.
+Through my background in data science and cognitive neuroscience, I have gained strong skills in programming (Pyhton, MATLAB), web scraping, database storage (MySQL, BigQuery) and querying (SQL), statistics, data analytics, data visualisation, and oral presentation.
 
-In this portfolio, I showcase my data analytics skills through 4 separate projects. My description of the projects are brief as code and figures can be found in their corresponding repositories.
+In this portfolio, I showcase my data science skills through 4 separate projects. My description of the projects are brief as code and figures can be found in their corresponding repositories.
 
 #### *Project 1: Auditory oddball experiment*
 * Cleaned dataset by following a standard EEG preprocessing protocol - removal of artifacts (ECG, eyeblinks), bandpass filtering to remove line noise, removing noisy trials and channels, removing independent components that were non-signal related, interpolating any removed bad channels.
