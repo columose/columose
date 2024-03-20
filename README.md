@@ -4,11 +4,9 @@
 
 Welcome to my Github profile ![wave-gif](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif)
 
-I was introduced to data science through my work in biosignal processing of EEG data at academic institutions. This work required rigor to enhance the signal-to-noise ratio through multiple cleaning steps, an analytical mind for data science, hypothesis testing, and a sharp eye for results visualisation.
+I was introduced to data science through my work in biosignal processing of EEG data at academic institutions. Aside from academia, I have pursued data science projects to improve my programming skills, to work with real world data (Spotify, Earthquakes, Animal Health) and to explore nice methods for data storage on local and cloud servers
 
-Aside from academia, I have pursued data science projects in my spare time to test and learn new programming languages, work with different types of real-world data (Spotify, Earthquakes, Animal Health), and test nice ways of storing data on local and cloud servers.
-
- I use Github to showcase some of my projects, collaborate with others, and share code with other data scientists.
+I use Github to showcase some of my projects, collaborate with others, and share code with other data scientists.
 
 ### 🧰 Data analytics programming and querying tools
 
