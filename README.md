@@ -40,7 +40,7 @@ In this portfolio, I showcase my data science skills through 4 separate projects
 * Summarised key metrics using an [interactive dashboard](https://public.tableau.com/app/profile/colum.s./viz/WOAHFMDproject/Dashboard) in ***Tableau public***.
 * Detailed description, code, figures, and interpretation can be found at the following [repository](https://github.com/columose/WOAH-FMD-dataset.git).
 
-![figure](https://github.com/columose/columose/blob/dfbabc4dfc11d6944f8f3095c20bf3398ad27f21/Github%20figures/Choropleth%20original.png)
+![figure](https://github.com/columose/WOAH-FMD-dataset/blob/5765e91a983e9fdf36988e3aa3fee5f0fae095d9/Figure%20output/Dashboard.png)
 
 
 #### *Project 3: Auditory oddball experiment*
