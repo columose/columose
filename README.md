@@ -23,7 +23,7 @@ Through my background in data science and cognitive neuroscience, I have gained 
 In this portfolio, I showcase my data science skills through 4 separate projects. My description of the projects are brief as code and figures can be found in their corresponding repositories.
 
 ### *Project 1: Cloud-based web-scraping project using Spotify API*
-* ***Entirey cloud-based project*** scraping ***daily data*** from Spotify API using ***Python*** scripts.
+* ***Entirey cloud-based project*** scraping ***real-time data*** from Spotify API using ***Python*** scripts.
 * Data was scraped and cleaned from Spotify API using the Pandas module with ***Google Colab*** for efficient ***cloud-computing***.
 * Clean daily data from the 'Top-50 Ireland' playlist, and clean annual data from 21st century playlists, is stored in ***Google Big Query*** data warehouse.
 * The key metrics of daily Irish top charts are compared with annual trends from the 21st century using an [interactive dashboard](https://lookerstudio.google.com/reporting/89c6378a-f65c-40d0-b712-72041bbcd563) in ***Google Looker Studio***.
