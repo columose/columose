@@ -12,14 +12,14 @@ I use Github to showcase some of my projects, collaborate with others, and share
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="MATLAB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg" />
 <img align="left" alt="sqlite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/icons/r/r-plain.svg" />
 <br />
 
 #
 
 ### Data analytics portfolio
-Through my background in data science and cognitive neuroscience, I have gained strong skills in programming (Python, MATLAB), web scraping, database storage (MySQL, BigQuery) and querying (SQL), statistics, data analytics, data visualisation, and oral presentation.
+Through my background in data science and cognitive neuroscience, I have gained strong skills in programming (Python, MATLAB, R), web scraping, database storage (MySQL, BigQuery) and querying (SQL), statistics, data analytics, data visualisation, and oral presentation.
 
 In this portfolio, I showcase my data science skills through 4 separate projects. My description of the projects are brief as code and figures can be found in their corresponding repositories.
 
@@ -39,7 +39,9 @@ In this portfolio, I showcase my data science skills through 4 separate projects
 * Performed time-series analysis to determine when peaks in variables of interest occurred and further explored whether variables of interest appeared to be related (NumPy, Matplotlib, Seaborn).
 * Deployed ***regression models*** to determine that FMD outbreaks in Europe have been dealt with by increased culling rates (scikit-learn).
 * Summarised key metrics using an [interactive dashboard](https://public.tableau.com/app/profile/colum.s./viz/WOAHFMDproject/Dashboard) in ***Tableau public***.
+* I also explored this dataset in ***R*** to familarise myself with its syntax, data types and key toolboxes (ggplot2, dplyr).
 * Detailed description, code, figures, and interpretation can be found at the following [repository](https://github.com/columose/WOAH-FMD-dataset.git).
+
 
 ![figure](https://github.com/columose/WOAH-FMD-dataset/blob/5765e91a983e9fdf36988e3aa3fee5f0fae095d9/Figure%20output/Dashboard.png)
 
