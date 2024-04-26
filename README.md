@@ -31,6 +31,7 @@ In this portfolio, I showcase my data science skills through 4 separate projects
 * A detailed description of the project, code, and interpretation of results can be found at the following [repository](https://github.com/columose/Spotify-API/blob/d85f87640ab00f4edf8d388ffddec082292d8064/README.md).
 
 ![Dashboard](https://github.com/columose/Spotify-API/blob/c4cdf184cf44efd278bfab140fcb2f333473ca25/Images/Spotify%20API%20dashboard.png)
+<br />
 
 #### *Project 2: World Organisation of Animal Health dataset*
 * Extracted real-world data relating to *Foot and Mouth disease (FMD)* in animals from the *World Organisation of Animal Health's* public database.
