@@ -32,8 +32,6 @@ In this portfolio, I showcase my data science skills through 4 separate projects
 
 ![Dashboard](https://github.com/columose/Spotify-API/blob/c4cdf184cf44efd278bfab140fcb2f333473ca25/Images/Spotify%20API%20dashboard.png)
 
-<br />
-
 #### *Project 2: World Organisation of Animal Health dataset*
 * Extracted real-world data relating to *Foot and Mouth disease (FMD)* in animals from the *World Organisation of Animal Health's* public database.
 * Data was cleaned (removing duplicate entries, Nan values, etc.) using the Pandas module with ***Google Colab*** for efficient ***cloud-computing***
@@ -46,8 +44,6 @@ In this portfolio, I showcase my data science skills through 4 separate projects
 
 
 ![figure](https://github.com/columose/WOAH-FMD-dataset/blob/5765e91a983e9fdf36988e3aa3fee5f0fae095d9/Figure%20output/Dashboard.png)
-
-<br />
 
 #### *Project 3: Auditory oddball experiment*
 * Cleaned dataset by following a standard EEG preprocessing protocol - removal of artifacts (ECG, eyeblinks), bandpass filtering to remove line noise, removing noisy trials and channels, removing independent components that were non-signal related, interpolating any removed bad channels.
