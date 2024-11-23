@@ -1,12 +1,12 @@
 # Colum Ó Sé
 
-**`Data science`**
+**`Cognitive Science`**
 
 Welcome to my Github profile ![wave-gif](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif)
 
-I was introduced to data science through my work in biosignal processing of EEG data at academic institutions. Aside from academia, I have pursued data science projects to improve my programming skills, to work with real world data (Spotify API,  World Organisation for Animal Health, NOAA Earthquake data) and to explore nice methods for data storage on cloud servers.
+My background is in Psychology and Cognitive Neuroscience, where I have mostly specialised in sensory perception and EEG signal processing. Aside from academia, I have pursued data science projects to improve my programming skills, to work with real world data (Spotify API,  World Organisation for Animal Health, NOAA Earthquake data) and to explore nice methods for data storage on cloud servers.
 
-I use Github to showcase some of my projects, collaborate with others, and share code with other data scientists.
+I use Github to showcase some of my projects, collaborate with others, and share code with other scientists.
 
 ### 🧰 Programming and querying tools
 
@@ -18,12 +18,31 @@ I use Github to showcase some of my projects, collaborate with others, and share
 
 #
 
-### Data analytics portfolio
-Through my background in data science and cognitive neuroscience, I have gained strong skills in programming (Python, MATLAB, R), web scraping, database storage (MySQL, BigQuery) and querying (SQL), statistics, data analytics, data visualisation, and oral presentation.
+### Projects
+Through my background in cognitive neuroscience, and personal expeditions in data science methods, I have gained strong skills in programming (Python, MATLAB, R), web scraping, database storage (MySQL, BigQuery) and querying (SQL), statistics, data analytics, data visualisation, and oral presentation.
 
-In this portfolio, I showcase my data science skills through 4 separate projects. My description of the projects are brief as code and figures can be found in their corresponding repositories.
+In this portfolio, I showcase my cognitive/data science skills through 4 separate projects. My description of the projects are brief as code and figures can be found in their corresponding repositories.
+#### *Project 1: Auditory oddball experiment*
+* Cleaned dataset by following a standard EEG preprocessing protocol - removal of artifacts (ECG, eyeblinks), bandpass filtering to remove line noise, removing noisy trials and channels, removing independent components that were non-signal related, interpolating any removed bad channels.
+* Performed time-series and time-frequency analyses of event-related signals.
+* Visualised the results of intricate statistical analyses using ***MATLAB and Python (Matplotlib, Seaborn, MNE)***.
+* The results of this project indicate that pre-attentive neural responses to environmental irregularities become heightned in chronic pain patients to compensate for attentional deficits.
+* Detailed description, code and figures can be found at the following [repository](https://github.com/columose/Chronic-Pain-Project.git).
 
-#### *Project 1: Cloud-based web-scraping project using Spotify API* 
+![figure](https://github.com/columose/columose/blob/8ad6cd6b904a5fcb0a8c0192ecebb4ee1c83f5e4/Github%20figures/Oddball%20time-domain.png)
+
+![figure](https://github.com/columose/columose/blob/aa0001208ff6838ab751deaa0b7fb6cf3548dee2/Github%20figures/Oddball%20time-freq.png)
+
+#### *Project 2: Colour surface perception*
+* Cleaned dataset using standard EEG protocol (see project 3).
+* Performed spectral analyses of frequency-tagged ERPs and visualised the results of statistical tests using ***MATLAB***.
+* Presented findings of research study at a national conference.
+* The figures below capture the findings of our study quite nicely. Illusory 'filling-in' of surfaces occurs with a 'spreading-out' of cortical activity. 
+* For access to the complete thesis and poster, see the following [repository](https://github.com/columose/Colour-Perception.git). 
+
+![figure](https://github.com/columose/columose/blob/bd11dc061999938ed605dfc0232e398c65ec407b/Github%20figures/Colour%20perception.png)
+
+#### *Project 3: Cloud-based web-scraping project using Spotify API* 
 * **Unfortunately, many of these playlists are no longer available by Spotify. The infrastructure still exists to update the project but I need to find a new research question to compare top Irish charts with.**
 * ***Entirey cloud-based project*** scraping ***real-time data*** from Spotify API using ***Python*** scripts.
 * Data was scraped and cleaned from Spotify API using the Pandas module with ***Google Colab*** for efficient ***cloud-computing***.
@@ -33,7 +52,7 @@ In this portfolio, I showcase my data science skills through 4 separate projects
 
 ![Dashboard](https://github.com/columose/Spotify-API/blob/c4cdf184cf44efd278bfab140fcb2f333473ca25/Images/Spotify%20API%20dashboard.png)
 
-#### *Project 2: World Organisation of Animal Health dataset*
+#### *Project 4: World Organisation of Animal Health dataset*
 * Extracted real-world data relating to *Foot and Mouth disease (FMD)* in animals from the *World Organisation of Animal Health's* public database.
 * Data was cleaned (removing duplicate entries, Nan values, etc.) using the Pandas module with ***Google Colab*** for efficient ***cloud-computing***
 * Stored clean dataset on ***MySQL*** server.
@@ -46,25 +65,7 @@ In this portfolio, I showcase my data science skills through 4 separate projects
 
 ![figure](https://github.com/columose/WOAH-FMD-dataset/blob/5765e91a983e9fdf36988e3aa3fee5f0fae095d9/Figure%20output/Dashboard.png)
 
-#### *Project 3: Auditory oddball experiment*
-* Cleaned dataset by following a standard EEG preprocessing protocol - removal of artifacts (ECG, eyeblinks), bandpass filtering to remove line noise, removing noisy trials and channels, removing independent components that were non-signal related, interpolating any removed bad channels.
-* Performed time-series and time-frequency analyses of event-related signals.
-* Visualised the results of intricate statistical analyses using ***MATLAB and Python (Matplotlib, Seaborn, MNE)***.
-* The results of this project indicate that pre-attentive neural responses to environmental irregularities become heightned in chronic pain patients to compensate for attentional deficits.
-* Detailed description, code and figures can be found at the following [repository](https://github.com/columose/Chronic-Pain-Project.git).
 
-![figure](https://github.com/columose/columose/blob/8ad6cd6b904a5fcb0a8c0192ecebb4ee1c83f5e4/Github%20figures/Oddball%20time-domain.png)
-
-![figure](https://github.com/columose/columose/blob/aa0001208ff6838ab751deaa0b7fb6cf3548dee2/Github%20figures/Oddball%20time-freq.png)
-
-#### *Project 4: Colour surface perception*
-* Cleaned dataset using standard EEG protocol (see project 3).
-* Performed spectral analyses of frequency-tagged ERPs and visualised the results of statistical tests using ***MATLAB***.
-* Presented findings of research study at a national conference.
-* The figures below capture the findings of our study quite nicely. Illusory 'filling-in' of surfaces occurs with a 'spreading-out' of cortical activity. 
-* For access to the complete thesis and poster, see the following [repository](https://github.com/columose/Colour-Perception.git). 
-
-![figure](https://github.com/columose/columose/blob/bd11dc061999938ed605dfc0232e398c65ec407b/Github%20figures/Colour%20perception.png)
 
 
 
