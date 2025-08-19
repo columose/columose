@@ -4,7 +4,7 @@
 
 Welcome to my Github profile ![wave-gif](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif)
 
-My background is in Psychology and Cognitive Neuroscience, where I have mostly specialised in sensory perception and EEG signal processing. Aside from academia, I have pursued data science projects to improve my programming skills, to work with real world data (Spotify API,  World Organisation for Animal Health, NOAA Earthquake data) and to explore nice methods for data storage on cloud servers.
+My background is in Psychology and Cognitive Neuroscience, where I have mostly specialised in sensory perception and EEG signal processing. Aside from academia, I have pursued data science projects to improve my programming skills, to work with real world data (Spotify API) and to explore nice methods for data storage on cloud servers.
 
 I use Github to showcase some of my projects, collaborate with others, and share code with other scientists.
 
@@ -52,18 +52,7 @@ In this portfolio, I showcase my cognitive/data science skills through 4 separat
 
 ![Dashboard](https://github.com/columose/Spotify-API/blob/c4cdf184cf44efd278bfab140fcb2f333473ca25/Images/Spotify%20API%20dashboard.png)
 
-#### *Project 4: World Organisation of Animal Health dataset*
-* Extracted real-world data relating to *Foot and Mouth disease (FMD)* in animals from the *World Organisation of Animal Health's* public database.
-* Data was cleaned (removing duplicate entries, Nan values, etc.) using the Pandas module with ***Google Colab*** for efficient ***cloud-computing***
-* Stored clean dataset on ***MySQL*** server.
-* Performed time-series analysis to determine when peaks in variables of interest occurred and further explored whether variables of interest appeared to be related (NumPy, Matplotlib, Seaborn).
-* Deployed ***regression models*** to determine that FMD outbreaks in Europe have been dealt with by increased culling rates (scikit-learn).
-* Summarised key metrics using an [interactive dashboard](https://public.tableau.com/app/profile/colum.s./viz/WOAHFMDproject/Dashboard) in ***Tableau public***.
-* I also explored this dataset in ***R*** to familarise myself with its syntax, data types and key toolboxes (ggplot2, dplyr).
-* Detailed description, code, figures, and interpretation can be found at the following [repository](https://github.com/columose/WOAH-FMD-dataset.git).
 
-
-![figure](https://github.com/columose/WOAH-FMD-dataset/blob/5765e91a983e9fdf36988e3aa3fee5f0fae095d9/Figure%20output/Dashboard.png)
 
 
 
