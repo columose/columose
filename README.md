@@ -42,15 +42,7 @@ In this portfolio, I showcase my cognitive/data science skills through 4 separat
 
 ![figure](https://github.com/columose/columose/blob/bd11dc061999938ed605dfc0232e398c65ec407b/Github%20figures/Colour%20perception.png)
 
-#### *Project 3: Cloud-based web-scraping project using Spotify API* 
-* **Unfortunately, many of these playlists are no longer available by Spotify. The infrastructure still exists to update the project but I need to find a new research question to compare top Irish charts with.**
-* ***Entirey cloud-based project*** scraping ***real-time data*** from Spotify API using ***Python*** scripts.
-* Data was scraped and cleaned from Spotify API using the Pandas module with ***Google Colab*** for efficient ***cloud-computing***.
-* Clean daily data from the 'Top-50 Ireland' playlist, and clean annual data from 21st century playlists, is stored in ***Google Big Query*** data warehouse.
-* The key metrics of daily Irish top charts are compared with annual trends from the 21st century using an [interactive dashboard](https://lookerstudio.google.com/reporting/89c6378a-f65c-40d0-b712-72041bbcd563) in ***Google Looker Studio***.
-* A detailed description of the project, code, and interpretation of results can be found at the following [repository](https://github.com/columose/Spotify-API/blob/d85f87640ab00f4edf8d388ffddec082292d8064/README.md).
 
-![Dashboard](https://github.com/columose/Spotify-API/blob/c4cdf184cf44efd278bfab140fcb2f333473ca25/Images/Spotify%20API%20dashboard.png)
 
 
 
