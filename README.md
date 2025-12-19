@@ -19,7 +19,7 @@ Aside from version control, I use Github to showcase some of my work, collaborat
 ### Projects
 Here are some of the nice projects that I've undertaken during my time at some of Europe's leading research institutions. The description of the projects are brief as code and figures can be found in the respective repositories.
 
-#### *École Normale Supérieure, Paris, France.*
+### École Normale Supérieure, Paris, France.
 #### *Learning spectral cues in white noise*
 * This is one of a series of projects we lead during my time at ENS. As most of these projects remain unpublished, I decided against sharing the analysis scripts for now, and rather an example of one of our online experiments.
 * The online experiments were programmed using vanilla JavaScript to ensure utmost control. The corresponding source code can be accessed using the inspector dev tool.
@@ -27,7 +27,7 @@ Here are some of the nice projects that I've undertaken during my time at some o
 * Here is a [poster](https://lsp-audition-tests.scicog.fr/Colum/Experiments/White_Noise_Perception/RT_version/poster.pdf) of the project presented at CFA 2025.
 
 
-#### *Trinity College Institute of Neuroscience, Dublin, Ireland.*
+### Trinity College Institute of Neuroscience, Dublin, Ireland.
 #### *EEG Biomarker of Chronic Pain*
 * In this project, we demonstrated how patients with chronic pain have a poorer ability to predict innocuous stimuli due to attentional deficits. These findings were revealed by lower phase-locked responses (ERP, ITPC).
 * Data were cleaned following a standard EEG preprocessing protocol - downsampling, bandpass filtering to remove line noise, removing noisy trials and channels, removing independent components that were non-signal related, interpolating any removed bad channels.
@@ -39,7 +39,7 @@ Here are some of the nice projects that I've undertaken during my time at some o
 
 ![figure](https://github.com/columose/columose/blob/aa0001208ff6838ab751deaa0b7fb6cf3548dee2/Github%20figures/Oddball%20time-freq.png)
 
-#### *Maastricht University, Maastricht, Netherlands*
+### Maastricht University, Maastricht, Netherlands
 #### *Colour surface perception*
 * This really nice project from my masters shows how illusory filling-in is associated with a neural spreading-out ERP.
 * Cleaned dataset using standard EEG protocol.
